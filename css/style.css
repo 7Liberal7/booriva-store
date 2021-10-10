@@ -496,7 +496,6 @@
     z-index: 10;
     margin-left: 30%;
     margin-top: 40px;
-    background-color: #FFFFFF;
 }
 .shop__info__text{
     margin-top: 300px;
@@ -762,6 +761,7 @@
     font-family: 'Waiting for the Sunrise', cursive;
     font-weight: 400;
     font-style: normal;
+
 }
 .instagram-item{
     max-height: 370px;
